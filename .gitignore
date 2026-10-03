@@ -1,0 +1,11 @@
+# compilados
+target/
+out/
+
+# configurações locais da IDE
+.idea/
+*.iml
+.vscode/
+
+# dados locais (se rodar com -Ddana.dados=dados)
+dados/
